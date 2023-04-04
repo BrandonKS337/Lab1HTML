@@ -1,0 +1,35 @@
+table, th, td{
+    border: 1px solid black;
+    }
+
+a{
+    font-size: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+input {
+    margin: 10px;
+    border-radius: 10px;
+    height: 25%;
+    width: 35%;
+    text-align: center;
+    color: greenyellow;
+    background-color: black;
+    font-size: larger;
+    text-transform: uppercase;
+    
+}
+/* .homeButton {
+    padding: 15px 15px 15px 15px;
+} */
+
+select {
+    height: 25px;
+    width: 35%;
+}
+button {
+    height: 25px;
+    width: 20%;
+    margin: 0 0 0 45px;
+}
